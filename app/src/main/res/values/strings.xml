@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simple-recycler-view</string>
+    <string name="load_more">Load more</string>
+</resources>
